@@ -1,8 +1,9 @@
 #include <iostream> //Bibliotecas
 using namespace std;
-int n, primo, modulo;
+
 int main()
 {
+    int n, primo, modulo;
     primo = 1;
     cout << "Ingrese el numero entero:" << endl;
     cin >> n;
